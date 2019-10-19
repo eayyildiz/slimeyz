@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SFS",
+        "GMG",
+        "SGS"
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "G": {
+            "item": "minecraft:green_dye"
+        },
+        "F": {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 6
+    }
+}
